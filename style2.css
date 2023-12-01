@@ -1,0 +1,31 @@
+body{
+    background-color: #ffb167d1;
+    text-align: center;
+  }
+  
+  .card{
+    margin: 5px;
+    display:flex;
+    flex-direction:column;
+    justify-content:space-between;
+    width: 15;
+    height: 15;
+    border: 1px solid rgb(5, 5, 5);
+    box-shadow: 2px 2px 8px 4px #d3d3d3d1;
+    border-radius:15px;
+    font-family: sans-serif;
+    align-self: center;
+  }
+  .card-title{
+    font-size: 24px;
+    padding: 10px 10px 0 10px;;
+  }
+  .card-body{
+    padding: 10px;
+  }
+  body {
+      text-align: center;
+      
+  }
+  
+  
